@@ -1,14 +1,21 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/millenyramos1/millenyramos1/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Milleny+Laurintino;Tenho+21+anos;Sou+Brasileira;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)<br><br>  
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=millenyramos1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-millenyramos1.vercel.app/api/top-langs/?username=millenyramos1&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
+
+<p align="center"> <strong>“Você tem tudo o que precisa para construir algo muito maior do que você mesmo.” – Seth Godin 🚀</strong><br><br> 
+<p align="left"> ⚡ | Estudante de Engenharia Elétrica e Técnico em Eletrônica (bolsista 100%)<br> 
+🤖 | Em busca de novos aprendizados nas áreas tecnológicas e de automação.<br>
+💻 | Aprendendo novas linguagens de programação, com foco em Python e em conhecer suas bibliotecas e utilizações.</p>&nbsp;
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=millenyramos1&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=000080" alt="Milleny Laurintino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenyramos1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000080" />
+</div>
+
+
  &nbsp;
  &nbsp;
 
@@ -19,8 +26,6 @@
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 
 
@@ -30,12 +35,15 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![JupyterNotebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -47,17 +55,19 @@
 </a>
 <a href = "mailto:contato.milleny.ramos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/milleny-ramos-laurintino-220882167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MillenyRamos1&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MillenyRamos1&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MillenyRamos1&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+&nbsp;
+&nbsp;
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MillenyRamos1&icon=0&color=0)](https://visitcount.itsvg.in)
  
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{millenyramos1}/count.svg" /></p> 
+<br>
+</div>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
