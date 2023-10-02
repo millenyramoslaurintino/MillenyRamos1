@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Milleny+Laurintino;Tenho+21+anos;Sou+Brasileira;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)<br><br>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Milleny+Laurintino;Tenho+21+anos;Sou+Brasileira;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)<br><br>  
 
 
 <p align="center"> <strong>“Você tem tudo o que precisa para construir algo muito maior do que você mesmo.” – Seth Godin 🚀</strong><br><br> 
 <p align="left"> ⚡ | Estudante de Engenharia Elétrica e Técnico em Eletrônica (bolsista 100%);<br> 
 🤖 | Em busca de novos aprendizados nas áreas tecnológicas e de automação;<br>
-💻 | Aprendendo novas linguagens de programação, com foco em Python e em conhecer suas bibliotecas e utilizações.</p>&nbsp;
+💻 | Aprendendo novas linguagens de programação, com foco em Python e em conhecer suas bibliotecas e utilizações.</p><br><br>&nbsp;
+
 
 
 <div align="center">  
@@ -15,11 +16,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenyramos1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000080" />
 </div>
 
+<br>
 
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
