@@ -5,8 +5,8 @@
 
 
 <p align="center"> <strong>“Você tem tudo o que precisa para construir algo muito maior do que você mesmo.” – Seth Godin 🚀</strong><br><br> 
-<p align="left"> ⚡ | Estudante de Engenharia Elétrica e Técnico em Eletrônica (bolsista 100%)<br> 
-🤖 | Em busca de novos aprendizados nas áreas tecnológicas e de automação.<br>
+<p align="left"> ⚡ | Estudante de Engenharia Elétrica e Técnico em Eletrônica (bolsista 100%);<br> 
+🤖 | Em busca de novos aprendizados nas áreas tecnológicas e de automação;<br>
 💻 | Aprendendo novas linguagens de programação, com foco em Python e em conhecer suas bibliotecas e utilizações.</p>&nbsp;
 
 
@@ -69,5 +69,8 @@
 <br>
 </div>
   
-  
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
